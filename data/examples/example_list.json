@@ -1,0 +1,6 @@
+[
+  {"name": "XORKing", "file": "xorking.bin", "desc": "Mon OTID modifier", "href": "https://gist.github.com/Adrichu00/2bcb3dcb0c0bf4e5677347e61acfce2c"},
+  {"name": "Emerald - Alakazam - Alternative Exit Bootstrap", "file": "em.alakazam.alternative_exit.bin", "desc": "Alternative to the Abra Exit Bootstrap of ACE3 guide", "href": "https://gist.github.com/Adrichu00/bd5ca36bba9b3da3ee8c5a90d155d9f8"},
+  {"name": "FRLG - Bellosstrap", "file": "frlg.bellosstrap.bin", "desc": "Exit Bootstrap for FRLG that changes to THUMB mode if marked", "href": "https://gist.github.com/Adrichu00/d86b4423466b1213a88391f552e6984c"},
+  {"name": "FRLG - Ninetales - Bad Egg Prevention", "file": "frlg.ninetales.bep.bin", "desc": "Prevents bad egg generation of species 0x0351 after ACE"}
+]
